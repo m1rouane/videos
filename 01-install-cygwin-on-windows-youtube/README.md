@@ -28,7 +28,7 @@ Installation instructions for https://www.youtube.com/watch?v=QonIPpKodCw
     - Click 'Next'
     
     <b>Choose A Download Site</b>
-    - This is the location from which you'll download the Cygwin packages.  Ideally, select a mirror that is geographically close to you.  If unsure, choose any mirror.
+    - This is the location from which you'll download the Cygwin packages.  Ideally, select a mirror that is geographically close to you because if you chose mirror geographiclly far from you is can packege not intsalled for exempel if you from australia and chose packege from france".fr" it could instal and stop and programe tell you to chose nother mirror.  If unsure, choose any see the extetion of packege and search and the country close to you chose it.
     - If no mirrors show, checkout this troubleshooting video: https://youtu.be/2rhHzNYh0o8
     - Click 'Next'
     
